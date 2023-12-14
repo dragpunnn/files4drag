@@ -1,9 +1,9 @@
 [
     {
         "game": "Subway Surfers",
-        "gameroot": "/files/Subway/",
-        "gamefile": "index.html",
-        "gameicon": "gameicon.png"
+        "gameroot": "https://github.com/dragpunnn/files4drag/tree/1dca47c7a2267a79ac667f4311cb64934aff6974/files/Subway",
+        "gamefile": "https://github.com/dragpunnn/files4drag/tree/1dca47c7a2267a79ac667f4311cb64934aff6974/files/Subway/index.html",
+        "gameicon": "https://github.com/dragpunnn/files4drag/tree/1dca47c7a2267a79ac667f4311cb64934aff6974/files/Subway/gameicon.png"
     },
     {
         "game": "Slope",
